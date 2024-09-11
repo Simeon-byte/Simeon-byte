@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently working on [an energy Smartmeter project](https://github.com/Simeon-byte/SmartMeter)
 
--   🌱 I’m currently learning **chartJS, Version Control (git)**
+-   🌱 I’m currently learning **C++, Version Control (git)**
 
 -   🤝 I’m looking for help with **exiting vim**
 
@@ -13,7 +13,7 @@
 
 -   📫 How to reach me **saimjen.duglas@gmail.com**
 
--   ⏲ I'd love learning **C++** and **Rust**
+-   ⏲ I'd love learning **Go** and **Rust**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
