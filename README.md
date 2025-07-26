@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-<h3 align="center">A willing learner and goal-oriented young aspiring software developer</h3>
 
 -   🔭 I’m currently working on [an energy Smartmeter project](https://github.com/Simeon-byte/SmartMeter)
 
--   🌱 I’m currently learning **C++, Version Control (git)**
+-   🌱 I’m currently learning **Version Control (git)**
 
 -   🤝 I’m looking for help with **exiting vim**
 
